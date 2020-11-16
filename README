@@ -1,0 +1,8 @@
+Fanbo Xu; Ruixuan Zhai
+fxu13; rzhai2
+
+We wrote seven functions for the seven kinds of functionalities. Each function returns the number of pixels being changed so that it is easy for us to debug. To read and write images, we wrote two functions (one of them is already given). For main, we check if the input command is right and if the number of commands matches the command. For commands that takes in numbers, we also check the validities of numbers.
+
+Most problems we encountered happens in blur and edge. It took us some time on figuring out the matrix coordinates.
+
+In all, now we know much about malloc and two dimentional arrays.

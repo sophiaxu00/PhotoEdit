@@ -1,0 +1,90 @@
+commit 4d314b5f4c70366052feadc569f9458cd10cbd91
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Thu Mar 28 20:52:54 2019 -0400
+
+    fixing bugs
+
+commit 64cb756f7db72d03c290e5b6ff318fbb231d03c6
+Merge: b3cc342 f1eabaa
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Thu Mar 28 20:05:24 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/EmilyZhai/ipmidterm
+
+commit b3cc342b8c3adf3cb65c4227718e10ac9319f556
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Thu Mar 28 20:05:08 2019 -0400
+
+    debugging
+
+commit f1eabaad9e320d18fdabf8c231798fcd55c0d8ed
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Wed Mar 27 01:08:21 2019 -0400
+
+    Add Readme
+
+commit ac3003e914b6ddcb3d249f3df01a889384dffe9d
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Wed Mar 27 00:53:58 2019 -0400
+
+    Edge completed
+
+commit 97429ebf893192e1022113ba148bb55e31490c7f
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Tue Mar 26 23:29:44 2019 -0400
+
+    add edge(not done) in main
+
+commit ca0a73c10fcf63a3047babb4fa988891b18dfba0
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Tue Mar 26 23:21:40 2019 -0400
+
+    add edges function in imageManip.c
+
+commit 3b4da2257b296fbbe9339f644fdf0f8ed3116154
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Tue Mar 26 23:18:53 2019 -0400
+
+    add edge function in imageManip.h
+
+commit 256c681eb772d7dcbb04be5a529ab9d6a4437881
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Tue Mar 26 23:05:57 2019 -0400
+
+    add blur in the main
+
+commit fd08500f91beaddbb22735abfe658e196fc3dfa5
+Author: Fanbo Xu <fxu13@jh.edu>
+Date:   Tue Mar 26 23:02:06 2019 -0400
+
+    add blur function and its helper method
+
+commit 73a1b453883f683f74e201da21e27a7a4c8fca18
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Fri Mar 22 01:54:42 2019 -0400
+
+    add crop method
+
+commit 946109eb8e015d36f63afdc99699019910cf63b8
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Thu Mar 21 16:27:06 2019 -0400
+
+    add the invert and gray function
+
+commit 938d1be2517affc34c3eabef932ed585e277ec4d
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Thu Mar 21 15:37:41 2019 -0400
+
+    add the bright method and change the main
+
+commit 6ee78a8a77ec820ceb08e8a4c9fc82118a0c12f7
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Thu Mar 21 13:55:10 2019 -0400
+
+    add the swap function and helper function for brightness
+
+commit 64c24051f8120d7eabe9cb6fc4fa737c5ea231fb
+Author: Ruixuan Zhai <rzhai2@jh.edu>
+Date:   Wed Mar 20 14:16:03 2019 -0400
+
+    finished read in and write out ppm
